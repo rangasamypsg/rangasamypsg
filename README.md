@@ -1,18 +1,11 @@
-# 🌟 Rangasamy M. | Fullstack Developer 🚀
+# 🌟 Hi 👋, I'm Rangasamy M. | Fullstack Developer 🚀
 
 > **Passionate Fullstack Developer | Architect of Scalable Solutions**  
 > 🌍 Coimbatore → Now coding in Bangalore  
 > 🎓 Graduate of **PSG College of Arts and Science**, Bharathiar University  
 > 📍 Currently based in HSR Layout, Bangalore
 > 🚀 **Building the Future of Web and Mobile Development**
----
-
-## 🚀 About Me
-
-I am a **Fullstack Developer** with 12+ years of experience in building dynamic, user-friendly web and mobile applications. My expertise lies in designing scalable architectures and crafting seamless user experiences. I am always looking for opportunities to innovate and contribute to impactful projects.
-
-I specialize in both **frontend** and **backend** technologies, and I am well-versed in optimizing performance, security, and data management. Let's build something amazing together!
-
+> 🔭 I’m currently working on **Ultra Stone Impex Pvt Ltd**, **Bangalore**
 ---
 
 ## 🌈 Key Highlights
