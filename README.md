@@ -1,11 +1,11 @@
 # 🌟 Hi 👋, I'm Rangasamy M. | Fullstack Developer 🚀
 
 > **Passionate Fullstack Developer | Architect of Scalable Solutions**  
-> 🌍 Coimbatore → Now coding in Bangalore  
-> 🎓 Graduate of **PSG College of Arts and Science**, Bharathiar University  
-> 📍 Currently based in HSR Layout, Bangalore
+> 🔭 Currently working at **Ultra Stone Impex Pvt Ltd**, **Bangalore**. <br/>
+> 🎓 Graduate of **PSG College of Arts and Science**, Bharathiar University, **Coimbatore**  <br/>
+> 📍 Living in **HSR Layout, Bangalore** <br/>
 > 🚀 **Building the Future of Web and Mobile Development**
-> 🔭 I’m currently working on **Ultra Stone Impex Pvt Ltd**, **Bangalore**
+
 ---
 
 ## 🌈 Key Highlights
