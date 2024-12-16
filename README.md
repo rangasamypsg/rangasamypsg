@@ -18,9 +18,9 @@ I specialize in both **frontend** and **backend** technologies, and I am well-ve
 ## 🌈 Key Highlights
 
 - **Dynamic Web Apps**: Building and maintaining highly interactive web applications using **React.js**, **Angular**, and **Vue.js**.
-- **API Development**: Designing scalable **RESTful APIs** and microservices using **Node.js** and **Laravel**.
+- **API Development**: Building scalable **RESTful APIs** and microservices with **Node.js** and **Laravel**.
 - **Frontend Mastery**: Proficient in **React**, **Redux**, **TypeScript**, and **JavaScript**.
-- **Mobile Development**: Mobile Development: Creating cross-platform mobile backend services using  **Laravel** and  **Node.js**.
+- **Mobile Development**: Developing cross-platform mobile backend services using **Laravel** and  **Node.js**.
 - **Secure Development**: Following best practices for **data protection**, **authentication**, and **authorization**.
 - **Cloud & DevOps**: Expertise in **AWS**, **Git**, and CI/CD pipelines for efficient deployment.
 
