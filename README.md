@@ -4,7 +4,7 @@
 > 🌍 Coimbatore → Now coding in Bangalore  
 > 🎓 Graduate of **PSG College of Arts and Science**, Bharathiar University  
 > 📍 Currently based in HSR Layout, Bangalore
-
+> 🚀 **Building the Future of Web and Mobile Development**
 ---
 
 ## 🚀 About Me
@@ -20,7 +20,7 @@ I specialize in both **frontend** and **backend** technologies, and I am well-ve
 - **Dynamic Web Apps**: Building and maintaining highly interactive web applications using **React.js**, **Angular**, and **Vue.js**.
 - **API Development**: Designing scalable **RESTful APIs** and microservices using **Node.js** and **Laravel**.
 - **Frontend Mastery**: Proficient in **React**, **Redux**, **TypeScript**, and **JavaScript**.
-- **Mobile Development**: Building cross-platform mobile apps with **Flutter** and **Kotlin**.
+- **Mobile Development**: Mobile Development: Creating cross-platform mobile backend services using  **Laravel** and  **Node.js**.
 - **Secure Development**: Following best practices for **data protection**, **authentication**, and **authorization**.
 - **Cloud & DevOps**: Expertise in **AWS**, **Git**, and CI/CD pipelines for efficient deployment.
 
